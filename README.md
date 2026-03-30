@@ -36,7 +36,20 @@ Se aplica mediante la sobrescritura de métodos (por ejemplo, `toString()` o mé
 
 ## 🏗️ Estructura del Proyecto
 
-
+📦 gestion-prestamos-libros
+┣ 📂 src
+┃ ┣ 📜 Libro.java
+┃ ┣ 📜 Usuario.java
+┃ ┣ 📜 Persona.java
+┃ ┣ 📜 Prestamo.java
+┃ ┣ 📜 Biblioteca.java
+┃ ┣ 📜 GestionLibro.java
+┃ ┣ 📜 GestionUsuario.java
+┃ ┣ 📜 GestionPrestamo.java
+┃ ┗ 📜 GestionDevolucion.java
+┣ 📂 uml
+┃ ┗ 📜 UML.jpg
+┣ 📜 README.md
 
 ---
 
