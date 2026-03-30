@@ -96,13 +96,13 @@ El sistema incluye un diagrama de clases que representa la estructura y relacion
 
 ## 🎥 Video de presentación
 
-(Agregar aquí el link del video)
+(https://drive.google.com/file/d/1PZEDiAC1BNOGgAiVIGBAW3snwSCCtri-/view?usp=sharing)
 
 ---
 
 ## 👤 Autor
 
-**Daniel Gonzalez**
+**Daniel Gonzalez Ospina**
 
 ---
 
