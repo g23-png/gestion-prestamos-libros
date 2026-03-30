@@ -90,7 +90,7 @@ Biblioteca.java
 
 El sistema incluye un diagrama de clases que representa la estructura y relaciones entre las entidades del sistema.
 
-📎 Archivo: `[UML.jpg](https://github.com/g23-png/gestion-prestamos-libros/blob/669eaa24edff8db0ee0931ad67c1c5ef17e66f52/UML.jpg)`
+📎 Archivo: `https://github.com/g23-png/gestion-prestamos-libros/blob/669eaa24edff8db0ee0931ad67c1c5ef17e66f52/UML.jpg`
 
 ---
 
