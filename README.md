@@ -1,6 +1,6 @@
 # 📚 Sistema de Gestión de Préstamos de Libros
 
-## 📌 Descripción
+##  Descripción
 
 Este proyecto implementa un sistema de gestión de préstamos de libros desarrollado en Java, utilizando el paradigma de Programación Orientada a Objetos (POO).
 
@@ -8,13 +8,13 @@ El sistema permite registrar libros, usuarios, gestionar préstamos y devolucion
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Desarrollar una solución que permita automatizar el proceso de préstamos de libros, aplicando buenas prácticas de programación y principios de POO.
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 * 📖 Registro de libros
 * 👤 Registro de usuarios
@@ -24,23 +24,23 @@ Desarrollar una solución que permita automatizar el proceso de préstamos de li
 
 ---
 
-## 🧠 Principios de Programación Orientada a Objetos
+##  Principios de Programación Orientada a Objetos
 
-### 🔹 Encapsulamiento
+###  Encapsulamiento
 
 Se implementa mediante atributos privados y métodos públicos (getters y setters), garantizando la protección de los datos y el acceso controlado a la información.
 
-### 🔹 Herencia
+### Herencia
 
 Se utiliza una clase base `Persona`, de la cual heredan otras clases como `Usuario`, permitiendo la reutilización de atributos comunes y una mejor organización del código.
 
-### 🔹 Polimorfismo
+### Polimorfismo
 
 Se aplica mediante la sobrescritura de métodos (por ejemplo, `toString()`), permitiendo diferentes comportamientos según el tipo de objeto.
 
 ---
 
-## 🏗️ Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 gestion-prestamos-libros/
@@ -61,14 +61,14 @@ gestion-prestamos-libros/
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
-### 🔹 Requisitos
+###  Requisitos
 
 * Java JDK 8 o superior
 * NetBeans / IntelliJ IDEA / Eclipse
 
-### 🔹 Pasos
+###  Pasos
 
 1. Clonar el repositorio:
 
@@ -86,7 +86,7 @@ Biblioteca.java
 
 ---
 
-## 🖼️ Diagrama UML
+##  Diagrama UML
 
 A continuación se muestra el diagrama de clases del sistema:
 
@@ -94,13 +94,13 @@ A continuación se muestra el diagrama de clases del sistema:
 
 ---
 
-## 🎥 Video de presentación
+##  Video de presentación
 
 (https://drive.google.com/file/d/1PZEDiAC1BNOGgAiVIGBAW3snwSCCtri-/view?usp=sharing)
 
 ---
 
-## 👤 Autor
+##  Autor
 
 **Daniel Gonzalez Ospina**
 
